@@ -201,11 +201,13 @@ header {
 #about {
   scroll-margin-top: 200px;
   height: 500px;
+  margin-left: 50px;
+  width: 550px;
 }
 
 .content {
-  margin-left: 730px;
-  width:730px;
+  margin-left: 650px;
+  width: 750px;
 }
 
 .container{
@@ -344,7 +346,7 @@ span {
 
 .ed__content:hover::before {
   left: -30px;
-  right: -30px;
+  width: 720px;
   background: var(--clr-bg-hover);
 }
 
@@ -380,7 +382,7 @@ span {
 
   font-size: var(--fs-md);
   line-height: 1.2;
-  width: 640px;
+  width: 600px;
   margin: 0;
 
 }
@@ -425,7 +427,7 @@ span {
 
 .skill__content:hover::before {
   left: -30px;
-  right: -30px;
+  width: 720px;
   top: 10px;
   background: var(--clr-bg-hover);
 }
@@ -579,7 +581,7 @@ span {
 
 .exp__content:hover::before {
   left: -30px;
-  right: -30px;
+  width: 720px;
   top: 5px;
   bottom: 10px;
   background: var(--clr-bg-hover);
@@ -738,7 +740,7 @@ span {
 
 .proj__content:hover::before {
   left: -30px;
-  right: -30px;
+  width: 720px;
   top: 5px;
   bottom: 10px;
   background: var(--clr-bg-hover);
