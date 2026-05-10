@@ -199,13 +199,13 @@ header {
 
 /*ABOUT SECTION*/
 #about {
-  scroll-margin-top: 250px;
+  scroll-margin-top: 200px;
   height: 500px;
 }
 
 .content {
-  margin-left: 650px;
-  width: calc(100% - 650px);
+  margin-left: 730px;
+  width:730px;
 }
 
 .container{
@@ -213,12 +213,12 @@ header {
 }
 
 .about__body {
-  margin-top: 250px;
+  margin-top: 200px;
   color: var(--clr-text-primary);
   opacity: 0.80;
 }
 
-.body p {
+.about__body p {
   color: var(--clr-text-primary);
   font-size: var(--fs-md);
   opacity: 0.90
