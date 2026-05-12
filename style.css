@@ -235,7 +235,7 @@ span {
 #education {
   height: 100vh;
   scroll-margin-top: 100px;
-  margin-top: 100px;
+  margin-top: 10px;
 }
 
 .ed {
@@ -353,7 +353,7 @@ span {
 /*SKILLS*/
 #skill {
   scroll-margin-top: 100px;
-  margin-top: 200px;
+  margin-top: 100px;
 }
 
 
@@ -435,7 +435,7 @@ span {
 /*EXPERIRNCE SECTION*/
 #experience {
   scroll-margin-top: 100px;
-  margin-top: 300px;
+  margin-top: 200px;
 }
 
 .exp {
@@ -618,7 +618,7 @@ span {
 /*PROJECT SECTION*/
 #project {
   scroll-margin-top: 100px;
-  margin-top: 300px;
+  margin-top: 200px;
 }
 
 .proj {
